@@ -46,15 +46,32 @@ The interface scales mathematically (`min(w, h)`) to fit any screen aspect ratio
 
 ---
 
-## 📸 Screenshots
+📸 Screenshots
 
-| Menu Interface | Gameplay Action |
-| :---: | :---: |
-| ![Menu](https://via.placeholder.com/400x200?text=Upload+Screenshot+Menu) | ![Game](https://via.placeholder.com/400x200?text=Upload+Screenshot+Game) |
+## Menu & Gameplay
+<table>
+<tr>
+  <th>Menu Interface</th>
+  <th>Gameplay Action</th>
+</tr>
+<tr>
+  <td><img src="assets/Menu Interface.png" width="300"></td>
+  <td><img src="assets/Gameplay Action.png" width="300"></td>
+</tr>
+</table>
 
-| Mobile Controls | Success/Fail State |
-| :---: | :---: |
-| ![Mobile](https://via.placeholder.com/400x200?text=Upload+Screenshot+Mobile) | ![Result](https://via.placeholder.com/400x200?text=Upload+Screenshot+Result) |
+## Mobile & Result
+<table>
+<tr>
+  <th>Mobile Controls</th>
+  <th>Success / Fail State</th>
+</tr>
+<tr>
+  <td><img src="assets/Success.png" width="300"></td>
+  <td><img src="assets/Fail.png" width="300"></td>
+</tr>
+</table>
+
 
 *(Note: Screenshots demonstrate the responsive UI adapting to different screens)*
 
